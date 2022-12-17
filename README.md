@@ -6,9 +6,12 @@ CSS
 ---
 # Note
 
-I know i Didnt use css variables, it would be easier 
+I know i Didnt use css variables.
 ---
-I Didnt make a form (intentionally)
+I Didnt make a form. (intentionally)
 ---
-I did use css attributes in html (intentionally)
+I did use css attributes in html. (intentionally)
 ---
+```html
+<link rel="stylesheet" href="style.css">
+```
